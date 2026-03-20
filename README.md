@@ -7,9 +7,8 @@ These apps showcase my creativity and coding journey.
 
 ## 🚀 Live Demos
 - [Calculator](https://minenhledlamini22.github.io/web-app-portfolio/Calculator/)
-- [Contact Book](https://minenhledlamini22.github.io/web-app-portfolio/ContactBook/)
+- [Contact Book](https://minenhledlamini22.github.io/web-app-portfolio/ContactBook/)- API KEY: MinenhleNgcobo8121@gmail.com
 - [Zoo Website](https://minenhledlamini22.github.io/web-app-portfolio/ZooWebsite/)
-- API KEY: MinenhleNgcobo8121@gmail.com
 - [Avengers Gallery](https://minenhledlamini22.github.io/web-app-portfolio/AvengersGallery/)
 
 ## 🛠️ Tech Stack
