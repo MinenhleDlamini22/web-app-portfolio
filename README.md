@@ -29,5 +29,7 @@ These apps showcase my creativity and coding journey.
 ---
 
 ### About Me
-I’m passionate about creating engaging, age‑appropriate content and interactive coding projects.  
-This repository highlights my skills and serves as part of my bursary application.
+I am an aspiring developer with a passion for creating interactive, visually engaging web applications.  
+My projects blend creativity with technical skill, using HTML, CSS, and JavaScript to bring ideas to life.  
+This portfolio reflects my commitment to learning, problem‑solving, and building tools that are both fun and practical.  
+I aim to grow my expertise further and use coding as a way to make technology accessible and inspiring for others.
