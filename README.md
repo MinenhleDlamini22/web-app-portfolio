@@ -12,6 +12,7 @@ These apps showcase my creativity and coding journey.
 
 - [Contact Book](https://minenhledlamini22.github.io/web-app-portfolio/ContactBook/)  
   A handy app to store, search, and manage contacts with ease.
+  {N.B}API KEY: MinenhleNgcobo8121@gmail.com
 
 - [Zoo Website](https://minenhledlamini22.github.io/web-app-portfolio/ZooWebsite/)  
   An educational site that brings animals to life through fun, interactive design.
