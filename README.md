@@ -9,7 +9,7 @@ These apps showcase my creativity and coding journey.
 - [Calculator](https://minenhledlamini22.github.io/web-app-portfolio/Calculator/)
 - [Contact Book](https://minenhledlamini22.github.io/web-app-portfolio/ContactBook/)
 - [Zoo Website](https://minenhledlamini22.github.io/web-app-portfolio/ZooWebsite/)
-- [Kids Game](https://minenhledlamini22.github.io/web-app-portfolio/KidsGame/)
+- [Avengers Gallery](https://minenhledlamini22.github.io/web-app-portfolio/AvengersGallery/)
 
 ## 🛠️ Tech Stack
 - HTML  
